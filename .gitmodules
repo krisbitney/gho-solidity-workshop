@@ -4,3 +4,6 @@
 [submodule "gho-workshop/lib/aave-v3-core"]
 	path = gho-workshop/lib/aave-v3-core
 	url = https://github.com/aave/aave-v3-core
+[submodule "gho-workshop/lib/gho-core"]
+	path = gho-workshop/lib/gho-core
+	url = https://github.com/aave/gho-core
