@@ -1,3 +1,6 @@
 [submodule "gho-workshop/lib/forge-std"]
 	path = gho-workshop/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "gho-workshop/lib/aave-v3-core"]
+	path = gho-workshop/lib/aave-v3-core
+	url = https://github.com/aave/aave-v3-core
