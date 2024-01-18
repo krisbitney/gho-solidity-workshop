@@ -7,3 +7,6 @@
 [submodule "gho-workshop/lib/gho-core"]
 	path = gho-workshop/lib/gho-core
 	url = https://github.com/aave/gho-core
+[submodule "gho-workshop/lib/openzeppelin-contracts"]
+	path = gho-workshop/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
